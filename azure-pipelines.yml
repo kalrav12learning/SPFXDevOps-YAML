@@ -3,7 +3,7 @@ resources:
 
 trigger:
 - master
-
+timeoutInMinutes: 10
 pool:
   vmImage: 'ubuntu-latest'
 
