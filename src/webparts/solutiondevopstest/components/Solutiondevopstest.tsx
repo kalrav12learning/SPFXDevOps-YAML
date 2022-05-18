@@ -9,7 +9,7 @@ export default class Solutiondevopstest extends React.Component<ISolutiondevopst
     return (    
       <div className={styles.panelStyle} >   
           
-          <div className={styles.tableCaptionStyle} >Today's date is 17th May 2022.This is DevOps Testing through AzurePipelines Agent Pool</div> 
+          <div className={styles.tableCaptionStyle} >Today's date is 19th May 2022.This is DevOps Testing through AzurePipelines Agent Pool</div> 
 
           <div className={styles.tableCaptionStyle} >Welcome to Azure DevOps CI/CD for SPFX</div>  
             <div className={styles.tableCaptionStyle} >Customize SharePoint Experiences using WebParts !!!  </div>  
